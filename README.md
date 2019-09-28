@@ -44,6 +44,11 @@ Then simply; click the “Manage Libraries” icon on the JSF capabilities page 
 * [JSF Mojjara library API JARS](http://central.maven.org/maven2/com/sun/faces/jsf-api/) - Used to get API JARS
 * [JSF Mojjara library IMPL JARS](http://central.maven.org/maven2/com/sun/faces/jsf-impl/) - Used to get IMPL JARS
 
+## UI and Design
+
+To get better UI download the files from bootstrap (css, js, ing) and add it to the project like this:
+* [Bootstrap for JSP](http://vitalflux.com/get-started-bootstrap-ui-eclipse/)
+
 ## Authors
 
 * **Kshitij Zutshi** - *Special thanks to* - [luv2code](http://www.luv2code.com) *in helping me to kickstart my learning*
