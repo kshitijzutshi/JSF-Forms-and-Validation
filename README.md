@@ -1,6 +1,12 @@
 # JSF-Forms-and-Validation
 Learning to use Java and JSF to build forms for User.
 
+# JSF Behind the Scenes
+
+The Following diagram shows the broad picture of how JSF works
+
+![alt text](https://github.com/kshitijzutshi/JSF-Forms-and-Validation/blob/master/JSF%20working%20behind%20the%20scene.png)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
