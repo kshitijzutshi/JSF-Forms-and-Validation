@@ -43,6 +43,7 @@ Then simply; click the “Manage Libraries” icon on the JSF capabilities page 
 * [Apache Tomcat](https://tomcat.apache.org/) - Server
 * [JSF Mojjara library API JARS](http://central.maven.org/maven2/com/sun/faces/jsf-api/) - Used to get API JARS
 * [JSF Mojjara library IMPL JARS](http://central.maven.org/maven2/com/sun/faces/jsf-impl/) - Used to get IMPL JARS
+* [Bootstrap](http://getbootstrap.com/) - Download bootstrap to your dynamic web project
 
 ## UI and Design
 
