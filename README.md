@@ -3,7 +3,8 @@ Learning to use Java and JSF to build forms for User.
 
 # JSF Behind the Scenes
 
-The Following diagram shows the broad picture of how JSF works
+The Following diagram shows the broad picture of how JSF works.
+In this project the communication from user,form fields and managed bean in done in simple.xhtml and the response received after submitting the form is stored in simpleresponse.xhtml
 
 ![alt text](https://github.com/kshitijzutshi/JSF-Forms-and-Validation/blob/master/JSF%20working%20behind%20the%20scene.png)
 
