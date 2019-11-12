@@ -55,3 +55,7 @@ To get better UI download the files from bootstrap (css, js, ing) and add it to 
 * **Kshitij Zutshi** - *Special thanks to* - [luv2code](http://www.luv2code.com) *in helping me to kickstart my learning*
 
 See also the list of [JSF tutorial videos](https://www.youtube.com/playlist?list=PLEAQNNR8IlB4S8nNUlS0ArfgU1nXlhdRu) which helped me in starting the project.
+
+### Quick Guide to master GitHub Markdown
+
+I found this [**link**](https://guides.github.com/features/mastering-markdown/) particularly helpful. If you want to use Emojis in your markdown, check [**this**](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) out. :100:
