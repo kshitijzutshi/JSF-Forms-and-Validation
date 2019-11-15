@@ -1,4 +1,6 @@
 # JSF-Forms-and-Validation
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b5808d185cae4511a1f2f857824f56a4)](https://www.codacy.com/manual/kshitijzutshi/JSF-Forms-and-Validation?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=kshitijzutshi/JSF-Forms-and-Validation&amp;utm_campaign=Badge_Grade)
+
 Learning to use Java and JSF to build forms for User.
 
 # JSF Behind the Scenes
